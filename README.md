@@ -2,4 +2,19 @@
 
 In this project uses TextToSpeech class in kotlin for conversion of text into audio  and jetpack compose for ui
 
-https://drive.google.com/drive/u/0/folders/18pVftS5Sct9L6Y7B0iuvx3Tvdu5hea2s
+
+
+Uploading WhatsApp Video 2025-06-26 at 5.03.28 PM.mp4…
+
+
+
+Uploading WhatsApp Video 2025-06-26 at 5.03.28 PM.mp4…
+
+
+
+Uploading WhatsApp Video 2025-06-26 at 5.03.28 PM.mp4…
+
+
+
+Uploading WhatsApp Video 2025-06-26 at 5.03.28 PM.mp4…
+
